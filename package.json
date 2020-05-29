@@ -1,0 +1,23 @@
+{
+  "name": "learning-polka",
+  "version": "1.0.0",
+  "description": "Just one of the things I'm learning. <https://github.com/hchiam/learning>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hchiam/learning-polka.git"
+  },
+  "author": "hchiam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hchiam/learning-polka/issues"
+  },
+  "homepage": "https://github.com/hchiam/learning-polka#readme",
+  "dependencies": {
+    "polka": "^0.5.2"
+  }
+}
