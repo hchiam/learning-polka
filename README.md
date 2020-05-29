@@ -2,6 +2,8 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
+Using [`yarn`](https://github.com/hchiam/learning-yarn):
+
 ```bash
 yarn # or: npm i
 yarn start # or: npm start
