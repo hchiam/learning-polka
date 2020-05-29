@@ -1,5 +1,7 @@
 # Learning [Polka](https://github.com/lukeed/polka)
 
+A micro web server.
+
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 Using [`yarn`](https://github.com/hchiam/learning-yarn):
